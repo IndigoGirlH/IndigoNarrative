@@ -165,10 +165,9 @@ In 2022, the New York Botanical Garden planted the African-American Garden at it
 ### Reclaiming Knowledge Through Art: SOMArts "Indigo Project" Exhibit
 In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition called “The Indigo Project.” This exhibition, which included multidisciplinary works such as textiles, photographs, and dolls, aimed to highlight the connection between Black culture and the production of indigo-based art. Created by priestess Bushmama Africa and artist Isha Rosemond, the exhibition was meant to point to, in Africa’s words, “Africa before colonization,” in which “all the dynasties wore indigo and they had their own print that signified each dynasty.” Certainly, the location of the exhibition in America and its emphasis on precolonial Africa makes a connection between the two inevitable, and reminds viewers of indigo’s equal significance to enslavement in America. By locating indigo-based art across two continents with an interconnected history and legacy of slavery, “The Indigo Project” seeks not only to highlight the similarities, but also the differences between the two: indigo in Africa as entirely distinct from America in the precolonial era, and indigo in America as indebted to African artistic traditions.
 <param ve-image
-       label="" 
-       description=""
+       label="Awon Iya Alaye: The Owners of the Earth by Stephen Hamilton" 
        license="Public domain"
-       url="">
+       url="https://content.sfstandard.com/wp-content/uploads/2022/12/FINAL.jpg?w=3840&q=75">
 
 ### Bringing beauty to the forefront
 Indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once the full story is exposed can the true beauty of indigo be revealed, a loveliness that surpasses the monetary value placed upon it by colonialism, reclaiming stories of indigenous tradition and peaceful revolution through art. Though the dark history of indigo may have faded into the background over time, just as it did in Vermeer’s Girl with a Pearl Earring, it still has important lessons to teach us. On the one hand, its history contains a grim warning of the destructive nature of greed. On the other hand, it shows the beauty nature supplies when these resources are used artistically and without exploitation.

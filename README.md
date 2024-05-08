@@ -181,48 +181,56 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 
 # References
 
-[^1] Abbie Vandivere, Jorgen Wadum, and Emilien Leonhardt, "The Girl in the Spotlight: Vermeer at Work, His Materials and Techniques in Girl with a Pearl Earring," Heritage Science 8, no. 1 (2020): 5.
-[^1]: "_Indigofera_ L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2.
-[^2]: Suryatapa Jha, "Plant of the Month: Indigo," JSTOR Daily, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
-[^3]: Ibid.
-[^4]: "_Indigo suffruticosa_," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1.
-[^5]: "Indigo," MAP Academy Encyclopedia of Art, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/
-[^9]: Victoria Finlay. Color: A natural history of the palette. (Random House Trade Paperbacks, 2004).
-[^10]: Chaudhuri, K. N. (1999). The English East India Company: The study of an early joint-stock company, 1600-1640. Routledge. 
-[^11]: Finlay.
-[^16]:  G. Terry. Sharrer, “Indigo in Carolina, 1671-1796,” The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 95.
-[^17]: Sharrer 95
-[^18]: Sharrer 95
-[^19]: Andrea Feeser, "Slave John Williams,: A Key Contributor to the Lucas-Pinckney Indigo Concern," in _Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life,_ (Athens, GA: University of Georgia Press, 2013), 99–108, 103.
-[^20]: Ibid 108
-[^21]: Ibid 99
-[^22]: Eliza Pinckney quoted in Feeser 105
-[^23]: Feeser 105–6
-[^24]: Feeser 106–7
-[^26]: Finlay.
-[^27]: Blair B. Kling, The Blue Mutiny: The Indigo Disturbance in Bengal 1859–1862. (Philadelphia: UPenn Press, 1966), 7.
-[^28]: Kling 8
-[^29]: Subhas Bhattacharya. “The Indigo Revolt of Bengal.” Social Scientist 5, no. 12 (1977): 13–23, 17.
-[^30]: Finlay
-[^31]: Dinabandhu Mitra, Nil Darpan; or, The Indigo Planting Mirror: A Drama, trans. Michael Madhususan Dutt, (Calcutta, 1861; Project Gutenberg, 19 January, 2017), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
-[^32]: Lesley Shapland, “Nil Darpan: the Indigo Revolt and the trial of Reverend James Long,” Untold Lives Blog, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
-[^33]: Mitra 8.
-[^34]: Kling 199.
-[^35]: Shapland.
-[^36]: Reverend John Long, Statement by the Rev. J. Long of His Connections with the Nil Darpan. (Calcutta: Sanders, Cones and Co, 1861), 6.
-[^37]: Long 6
-[^38]: Report of the Indigo Commission
-[^39]: Ghosal, Hari Ranjan. “Indigo In North Bihar And Mahatma Gandhi.” Proceedings of the Indian History Congress 15 (1952): 327–32. http://www.jstor.org/stable/45436505.
-[^40]: Misra, Anil Dutt, and Sushma Yadiv. Gandhian alternative. New Delhi: Published for Gandhi Smriti and Darshansamiti by Concept Pub. Co., 2005. 
-[^41]: Ghosal, Hari Ranjan. “Indigo In North Bihar And Mahatma Gandhi.” Proceedings of the Indian History Congress 15 (1952): 327–32. http://www.jstor.org/stable/45436505.
-[^42]: Linke, Julia A, Andrea Rayat, and John M Ward. “Production of Indigo by Recombinant Bacteria.” Bioresources and bioprocessing, March 13, 2023. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/. 
-[^43]: ibid
-[^44]: ibid
-[^45]: ibid
-[^46]: Margaret Washington Creel quoted in Tiffany Lethabo King, “The Labor of (Re)reading Plantation Landscapes Fungible(ly).” Antipode 48, no. 4 (2016): 1022–39, 1033–34
-[^47]: King 1023
-[^48]: Latria Graham, “The Blue That Enchanted the World.” Smithsonian Magazine. Smithsonian Institution, December 2022. smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.
-[^49]: Barbara Noe Kennedy, “Indigo is making a comeback in South Carolina—here’s where to find it.” National Geographic. National Geographic Society, 7 March 2013. nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.
-[^50]: Leigh Magar, “Madame Magar Vision,” Madame Magar, accessed 6 May 2024, https://madamemagar.com/vision.
-[^51]: Leigh Magar quoted in Graham
-[^52]: Kennedy
+[^1]: Abbie Vandivere, Jorgen Wadum, and Emilien Leonhardt, "The Girl in the Spotlight: Vermeer at Work, His Materials and Techniques in Girl with a Pearl Earring," Heritage Science 8, no. 1 (2020): 5.
+[^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2.
+[^3]: Suryatapa Jha, "Plant of the Month: Indigo," JSTOR Daily, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
+[^4]: Ibid.
+[^5]: "Indigo suffruticosa," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1.
+[^6]: "Indigo," MAP Academy Encyclopedia of Art, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/.
+[^7]: Jha, “Plant of the Month: Indigo.”
+[^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," Indian Journal of History of Science 53, no. 3 (2018): 297.
+[^9]: Victoria Finlay, Color: A Natural History of the Palette (Random House Trade Paperbacks, 2004).
+[^10]: Kirti N. Chaudhuri, The English East India Company: The Study of an Early Joint-Stock Company, 1600-1640 (Routledge, 1999). 
+[^11]: Finlay, Color.
+[^12] Prakash Kumar, Indigo Plantations and Science in Colonial India,(Cambridge: Cambridge University Press, 2012), 27.
+[^13]: Kumar, Indigo Plantations and Science, 29.
+[^14]: Hans Sloane, A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica (London, 1725), 35.
+[^15]: Ibid.
+[^16]: Jean-Baptise Labat, Nouveau Voyage aux isles Francoises de l'Amerique (1722), quoted in Philip Miller, The Gardeners Dictionary (London, 1768).
+[^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 94.
+[^18]: Sharrer, “Indigo in Carolina,” 95.
+[^19]: Sharrer, “Indigo in Carolina,” 95.
+[^20]: Andrea Feeser, Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life, (Athens: University of Georgia Press, 2013), 99–108, 103.
+[^21]: Feeser, Red, White, and Black Make Blue, 108.
+[^22]: Feeser, Red, White, and Black Make Blue, 99.
+[^23]: Feeser, Red, White, and Black Make Blue, 105.
+[^24]: Feeser, Red, White, and Black Make Blue, 106-7.
+[^26]: Finlay, Color. 
+[^27]: Blair B. Kling, The Blue Mutiny: The Indigo Disturbance in Bengal 1859–1862 (Philadelphia: UPenn Press, 1966), 7.
+[^28]: Kling, Blue Mutiny, 8.
+[^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," Social Scientist 5, no. 12 (1977): 13–23, 17.
+[^30]: Finlay, Color.
+[^31]: Dinabandhu Mitra, Nil Darpan; or, The Indigo Planting Mirror: A Drama, trans. Michael Madhususan Dutt, (Calcutta, 1861), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
+[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," Untold Lives, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
+[^33]: Mitra, Nil Darpan, 8.
+[^34]: Kling, Blue Mutiny, 199.
+[^35]: Shapland, “Nil Darpan.”
+[^36]: John Long, Statement by the Rev. J. Long of His Connections with the Nil Darpan (Calcutta: Sanders, Cones and Co., 1861), 6.
+[^37]: Long, Statement, 6.
+[^38]: Report of the Indigo Commission.
+[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," Proceedings of the Indian History Congress 15 (1952): 327–32, http://www.jstor.org/stable/45436505.
+[^40]: Ghosal, “Indigo in North Bihar.”
+[^41]: Anil Dutta Misra and Sushma Yadav, Gandhian Alternative (New Delhi: Concept Pub. Co., 2005). 
+[^42]: Ghosal, “Indigo in North Bihar.”
+[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," Bioresources and Bioprocessing 10, March 13, 2023, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.
+[^44]: Margaret Washington Creel quoted in Tiffany Lethabo King, "The Labor of (Re)reading Plantation Landscapes Fungible(ly)," Antipode 48, no. 4 (2016): 1022–39, 1033–34.
+[^45]: King, “The Labor of (Re)reading,” 1023.
+[^46]: Latria Graham, "The Blue That Enchanted the World," Smithsonian Magazine, December 2022, smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.
+[^47]: Barbara Noe Kennedy, "Indigo is making a comeback in South Carolina—here's where to find it," National Geographic, 7 March 2013. nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.
+[^48]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, https://madamemagar.com/vision.
+[^49]: Leigh Magar quoted in Graham, “The Blue That Enchanted the World.”
+[^50]: Kennedy, “Indigo is making a comeback.”
+[^51]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
+[^52]: "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
+[^53]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf/.
+[^54]:  Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," SFGATE, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.

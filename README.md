@@ -192,7 +192,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^9]: Victoria Finlay, Color: A Natural History of the Palette (Random House Trade Paperbacks, 2004).
 [^10]: Kirti N. Chaudhuri, The English East India Company: The Study of an Early Joint-Stock Company, 1600-1640 (Routledge, 1999). 
 [^11]: Finlay, Color.
-[^12] Prakash Kumar, Indigo Plantations and Science in Colonial India,(Cambridge: Cambridge University Press, 2012), 27.
+[^12]: Prakash Kumar, Indigo Plantations and Science in Colonial India,(Cambridge: Cambridge University Press, 2012), 27.
 [^13]: Kumar, Indigo Plantations and Science, 29.
 [^14]: Hans Sloane, A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica (London, 1725), 35.
 [^15]: Ibid.

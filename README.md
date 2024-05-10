@@ -21,6 +21,7 @@ More than 750 species belong to the Indigofera L. genus, and its native range sp
        label="Early Modern Indigofera Dosua"
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
+       fit=contain
        url="https://biodiversitylibrary.org/pageImage/54768315">
 
 ### Ancient & Indigenous Uses of Indigo

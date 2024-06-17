@@ -1,20 +1,22 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Indigo Plant Narrative"
+       title="Indigo: Faded Pigments and Stained Hands"
        author="Hayley Blair, Jordan Smith, & Gianna Welty"
        source-image="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg"
        layout="vertical">
 
-# Indigo: Fading and Staining Throughout History
+# Indigo: Faded Pigments and Stained Hands
 
 ### Indigo: Fading into the Background
 Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span> of Johannes Vermeer's Girl with a Pearl Earring (c. 1665) appears black, especially when viewed against the light blue of the subject's turban. However, thanks to the passage of four centuries, the original indigo pigment used to paint the background has faded, rendering its significance hardly noticeable to a modern audience more fixated on matters such as the subject's identity. The worldwide popularity and widespread use of indigo make this ignorance doubly ironic. The pigment itself is not the only aspect of the painting that has faded: the often violent and exploitative context in which indigo was obtained and used during the colonial period has been largely overlooked for a dye whose widespread popularity has endured for millennia. For the purposes of this painting, it was exported from the Americas to the Netherlands and therefore was most likely produced using enslaved labor. This is one of the many examples of indigo's inextricable linkage with a dark colonial past. The indigo plant certainly carries a complex history associated with colonialism and the exploitation of labor.[^1] When paid greater attention, however, this history reveals overlooked art forms that contribute to a reframing of knowledge that reaches beyond indigo's violent past.
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c"
        label="Vermeer's Girl With a Pearl Earring"
-       license="Johannes Vermeer, Public domain, via Wikimedia Commons">
+       description="Johannes Vermeer, 1665."
+       license="Public domain"
+       fit=contain>
 
 More than 750 species belong to the Indigofera L. genus, and its native range spans Africa, Asia, the Southwest Pacific, the Central and Southern U.S., and the tropics.[^2] The genus belongs to the bean family (Fabaceae), and, as a legume, Indigo "can fix nitrogen in the soil, and therefore, it's used as a rotation crop in agriculture to improve soil quality."[^3] Perhaps the most well known of its species is Indigofera tinctoria, which, otherwise known as "true indigo,"  is the dominant species in the Indian subcontinent.[^4] Another well-known indigo species is Indigo suffruticosa, which is dominant in Central and South America.[^5] While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of fermentation. Leaves are "soaked in water and churned until they release a navy blue froth," which is then filtered for impurities and turned into a powder or paste.[^6] In most cases, this powder or paste is then used to create pigment for paint and a dye for clothing and textiles.
 <param ve-image
@@ -27,7 +29,7 @@ More than 750 species belong to the Indigofera L. genus, and its native range sp
 ### Ancient & Indigenous Uses of Indigo
 The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru.[^7] Throughout the Americas in ancient and premodern times, the species Indigofera suffruticosa was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, around 3000 B.C.E., indigo in the form of the species Indigofera tinctoria was cultivated in the Indus Valley. This is the location from which indigo entered the European market, and it became known throughout the Roman Empire as indicum.[^8] As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia.
 <param ve-image
-       label="Indus Valley Map"
+       label="Map of the Indus Valley, c. 2600–1900 BCE"
        license="Public domain"
        contain=fit
        url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
@@ -36,7 +38,7 @@ The earliest documented use of indigo can be found in 4000 B.C.E., located in wh
 Though indigo had a rich history in the Indus Valley, the initial reception in Europe in the sixteenth century was mixed. Some were astonished by the dyeing power of this freshly encountered plant and were eager to use it for profit or personal use. Others had already invested all their capital in woad, which had been commonly used to make blue dye since before Britain was conquered by the Romans. Although it was not as effective as indigo, woad had brought middle-class merchants great profit, and they had gained substantial influence sponsoring the creation of churches, towns, and universities with their wealth. After indigo arrived, suppliers of woad fought their potential obsolescence, and those who were heavily invested in the product fought to keep their profits secure. France enacted a death penalty law attached to the use of indigo in 1609, and, in Germany, indigo was known colloquially as the "devil's dye." England declared indigo a poisonous substance and banned it until 1660. Most dyers ignored the law throughout Europe, however, mixing indigo with woad to produce stronger vats of dye.[^9] The East India Company (EIC), which was founded in 1600, happily supplied the illegal plant to dyers from India.[^10]​​ In spite of the EIC's early interest, France changed their laws first and became the only legal source of indigo, an advantage that for a time allowed them to become the main supplier throughout Europe. This move gave them a head start in the competition for indigo profits that would continue through the next several hundred years.[^11] 
 <param ve-image
        label="France versus England" 
-       description="Napolean's military uniforms were also dyed with indigo."
+       description="Napolean's military uniforms, depicted on the right, were dyed with indigo."
        license="James Gillray, Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Caricature_gillray_plumpudding.jpg">
 

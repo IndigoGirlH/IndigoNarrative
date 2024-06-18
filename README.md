@@ -61,7 +61,7 @@ In 1694, Jean-Baptiste Labat traveled to Martinique for the purposes of missiona
        label="Jean Baptiste Labat portrait" 
        license="Public domain"
        fit=contain
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jean-Baptiste_Labat.jpg/1024px-Jean-Baptiste_Labat.jpg">
+       url="https://www.biodiversitylibrary.org/page/40474136#page/135/mode/1up">
 
 ### South Carolina Enters the Indigo market
 

@@ -4,7 +4,7 @@
        title="Indigo: Faded Pigments and Stained Hands"
        author="Hayley Blair, Jordan Smith, & Gianna Welty"
        source-image="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/3a/Indigofera_tinctoria1.jpg"
        layout="vertical">
        
 ### Indigo: Fading into the Background
@@ -170,11 +170,10 @@ In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition call
 ### Bringing beauty to the forefront
 Indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once the full story is exposed can the true beauty of indigo be revealed, a loveliness that surpasses the monetary value placed upon it by colonialism, reclaiming stories of indigenous tradition and peaceful revolution through art. Though the dark history of indigo may have faded into the background over time, just as it did in Vermeer's Girl with a Pearl Earring, it still has important lessons to teach us. On the one hand, its history contains a grim warning of the destructive nature of greed. On the other hand, it shows the beauty nature supplies when these resources are used artistically and without exploitation.
 <param ve-image 
-       label="The Presentation of Christ in the Temple, from High Altar (1466)"
-       description="Indigo is used here for its popular the Virgin Mary's robes, and it's fading may account for the discoloration of her clothes."
+       label="Indigo Dye"
        contain=fit
-       license="Public license"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/68/St.Jakob_-_Hochaltar_-_Pr%C3%A4sentation_Christi_im_Tempel.jpg">
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg">
 
 
 # References

@@ -105,21 +105,12 @@ Nil Darpan was the first commercially staged play at Calcutta's National Theatre
 src="https://books.google.com/books?id=q5ZeAAAAcAAJ&pg=PP5&output=embed">
 
 ### Gandhi’s Peaceful Revolution & Champaran Satyagraha: 
-The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but they did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of World War I in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India's independence movement. After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers <span data-mouseover-map-flyto="26.6156, 84.8409, 11">the Champaran district of Bihar.</span>[^39]
-<param ve-map
-       center="26.5833, 84.8333"
-       zoom=5
-       Title="Champaran"
-       prefer-geojson>
-<param ve-map-layer geojson
-       url=https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json
-       show-labels
-       stroke-width="0">
-<param ve-map-marker    url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
-       coords="26.5833, 84.8333"
-       size="400, 200" 
-       size="400, 200"
-       circle="true">
+The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but they did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of World War I in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India's independence movement. After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers the Champaran district of Bihar.[^39]
+<param ve-image
+       label="Indigo dye factory in Bengal, 1867"
+       license="Public Domain"
+       fit=contain
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Indigo_factory_bengal2_%281%29.jpg">
 
 Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress meeting in 1916 to see the plight of indigo farmers for himself, and he visited Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran was threatened by his presence and asked him to leave immediately. Gandhi refused to retreat until he had completed his mission, however, and rumors spread among the people that the magistrate had been forced to apologize, spreading hope.  Gandhi wrote to the Government of Bihar with thousands of accounts from indigo workers he had collected via interviews, and officials appointed an enquiry committee, which made "drastic recommendations in its report to improve the state of affairs in the district," which were then mostly implemented by the government.[^40]  His efforts became known as the Champaran Satyagraha. Satyagraha is the term Gandhi coined to describe his methods of peaceful resistance, derived from the Sanskrit words Satya (truth) and agraha (firmness or force).[^41] His successful protests against the oppression and exploitation of the indigo farmers in Champaran became "the first laboratory of experiment…for his political ideas" and were an important origin point for his peaceful resistance to British rule in India.[^42] 
 <param ve-image

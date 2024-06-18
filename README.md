@@ -22,7 +22,7 @@ More than 750 species belong to the Indigofera L. genus, and its native range sp
        description="from the Nikolaus Joseph Freiherr von Jacquin's _Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones, Vol. iii (1797-1804)._"
        license="Public domain"
        fit=contain
-       url="https://ia800603.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000508413&itemPath=%2F7%2Fitems%2Fmobot31753000508413&server=ia800603.us.archive.org&page=n315_w386">
+       url="https://www.biodiversitylibrary.org/pageImage/272700">
 
 ### Ancient & Indigenous Uses of Indigo
 The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru.[^7] Throughout the Americas in ancient and premodern times, the species Indigofera suffruticosa was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, around 3000 B.C.E., indigo in the form of the species Indigofera tinctoria was cultivated in the Indus Valley. This is the location from which indigo entered the European market, and it became known throughout the Roman Empire as indicum.[^8] As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia.

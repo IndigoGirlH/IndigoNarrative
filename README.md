@@ -31,7 +31,7 @@ The earliest documented use of indigo can be found in 4000 B.C.E., located in wh
        license="Public domain"
        contain=fit  url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
 
-### Beautiful but banned
+### Beautiful but Banned
 Though indigo had a rich history in the Indus Valley, the initial reception in Europe in the sixteenth century was mixed. Some were astonished by the dyeing power of this freshly encountered plant and were eager to adopt it for profit or personal use. Others had already invested all their capital in <span eid="Q212547">woad</span>, which had been commonly used to make blue dye since before Britain was conquered by the Romans. Although it was not as effective as indigo, woad had brought middle-class merchants great profit, and they had gained substantial influence sponsoring the creation of churches, towns, and universities with their wealth. After indigo arrived, suppliers of woad fought their potential obsolescence, and those who were heavily invested in the product fought to keep their profits secure. France enacted a death penalty law attached to the use of indigo in 1609, and, in Germany, indigo was known colloquially as the "devil's dye." England declared indigo a poisonous substance and banned it until 1660. Most dyers throughout Europe, however, ignored the law and mixed indigo with woad to produce stronger vats of dye.[^9] <span eid="Q83164">The East India Company (EIC)</span>, which was founded in 1600, happily supplied the illegal plant to dyers from India.[^10]​​ France changed their laws first and became the only legal source of indigo, an advantage that for a time allowed them to become the main supplier throughout Europe. This move gave them a head start in the competition for indigo profits that would continue through the next several hundred years.[^11]
 <param ve-image
        label="Napolean's military uniforms, depicted on the right in this political cartoon, were dyed with indigo." 
@@ -166,7 +166,7 @@ Botanical projects are not the only way to mend and reclaim the history of indig
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tissages_de_coton_indigo_01.jpg"
        fit="contain">
 
-### Bringing beauty to the forefront
+### Bringing Beauty to the Forefront
 Indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once a nuanced and complex story is exposed can the true beauty of indigo be revealed, a loveliness that surpasses the monetary value placed upon it by colonialism, reclaiming stories of indigenous tradition and peaceful revolution through art and community. Though the dark history of indigo may have faded into the background over time, just as it did in Vermeer's _Girl with a Pearl Earring_, it still has important lessons to teach us. On the one hand, its history contains a grim warning of the destructive nature of greed. On the other hand, it shows the beauty plant life supplies when these resources are used artistically and without exploitation.
 <param ve-image 
        label="Indigo Dye"

@@ -212,10 +212,10 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^33]: Mitra, _Nil Darpan_, 8.
 [^34]: Kling, _Blue Mutiny_, 199.
 [^35]: Shapland, “Nil Darpan.”
-[^36]: John Long, Statement by the Rev. J. Long of His Connections with the Nil Darpan (Calcutta: Sanders, Cones and Co., 1861), 6.
-[^37]: Long, Statement, 6.
-[^38]: Report of the Indigo Commission.
-[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," Proceedings of the Indian History Congress 15 (1952): 327–32, http://www.jstor.org/stable/45436505.
+[^36]: John Long, _Statement by the Rev. J. Long of His Connections with the Nil Darpan_ (Calcutta: Sanders, Cones and Co., 1861), 6.
+[^37]: Long, _Statement_, 6.
+[^38]: _Report of the Indigo Commission_.
+[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," _Proceedings of the Indian History Congress_ 15 (1952): 327–32, http://www.jstor.org/stable/45436505.
 [^40]: Ghosal, “Indigo in North Bihar.”
 [^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative_ (New Delhi: Concept Pub. Co., 2005). 
 [^42]: Ghosal, “Indigo in North Bihar.”

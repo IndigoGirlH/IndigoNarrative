@@ -190,9 +190,9 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^11]: Finlay, _Color_.
 [^12]: Prakash Kumar, _Indigo Plantations and Science in Colonial India_ (Cambridge: Cambridge University Press, 2012), 27.
 [^13]: Kumar, _Indigo Plantations and Science_, 29.
-[^14]: Hans Sloane, _A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica_ (London, 1725), 35.
+[^14]: Hans Sloane, _A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica, Vol. II_ (London, 1725), 35.
 [^15]: Ibid.
-[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, _The Gardeners Dictionary_ (London, 1768).
+[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, _The Gardeners Dictionary_, "Indigofera" (London, 1768).
 [^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," _The South Carolina Historical Magazine_ 72, no. 2 (1971): 94–103, 94.
 [^18]: Sharrer, “Indigo in Carolina,” 95.
 [^19]: Ibid.
@@ -203,27 +203,27 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^24]: Feeser, _Red, White, and Black Make Blue_, 106-7.
 [^25]: Feeser, _Red, White, and Black Make Blue_, 106.
 [^26]: Finlay, Color. 
-[^27]: Blair B. Kling, The Blue Mutiny: The Indigo Disturbance in Bengal 1859–1862 (Philadelphia: UPenn Press, 1966), 7.
-[^28]: Kling, Blue Mutiny, 8.
-[^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," Social Scientist 5, no. 12 (1977): 13–23, 17.
+[^27]: Blair B. Kling, _The Blue Mutiny: The Indigo Disturbance in Bengal 1859–1862_ (Philadelphia: UPenn Press, 1966), 7.
+[^28]: Kling, _Blue Mutiny_, 8.
+[^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," _Social Scientist_ 5, no. 12 (1977): 13–23, 17.
 [^30]: Finlay, Color.
 [^31]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
-[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," Untold Lives, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
+[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
 [^33]: Mitra, _Nil Darpan_, 8.
-[^34]: Kling, Blue Mutiny, 199.
+[^34]: Kling, _Blue Mutiny_, 199.
 [^35]: Shapland, “Nil Darpan.”
 [^36]: John Long, Statement by the Rev. J. Long of His Connections with the Nil Darpan (Calcutta: Sanders, Cones and Co., 1861), 6.
 [^37]: Long, Statement, 6.
 [^38]: Report of the Indigo Commission.
 [^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," Proceedings of the Indian History Congress 15 (1952): 327–32, http://www.jstor.org/stable/45436505.
 [^40]: Ghosal, “Indigo in North Bihar.”
-[^41]: Anil Dutta Misra and Sushma Yadav, Gandhian Alternative (New Delhi: Concept Pub. Co., 2005). 
+[^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative_ (New Delhi: Concept Pub. Co., 2005). 
 [^42]: Ghosal, “Indigo in North Bihar.”
-[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," Bioresources and Bioprocessing 10, March 13, 2023, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.
+[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," _Bioresources and Bioprocessing_ 10, March 13, 2023, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.
 [^44]: Linke, Rayat, and Ward.
 [^45]: Margaret Washington Creel quoted in Tiffany Lethabo King, "The Labor of (Re)reading Plantation Landscapes Fungible(ly)," Antipode 48, no. 4 (2016): 1022–39, 1033–34.
 [^46]: King, “The Labor of (Re)reading,” 1023.
-[^47]: Latria Graham, "The Blue That Enchanted the World," Smithsonian Magazine, December 2022, smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.
+[^47]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.
 [^48]: Barbara Noe Kennedy, "Indigo is making a comeback in South Carolina—here's where to find it," National Geographic, 7 March 2013. nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.
 [^49]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, https://madamemagar.com/vision.
 [^50]: Leigh Magar quoted in Graham, “The Blue That Enchanted the World.”
@@ -232,4 +232,4 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^53]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
 [^54]:  "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
 [^55]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf
-[^56]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," SFGATE, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.
+[^56]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," _SFGATE_, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.

@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Indigo: Faded Pigments and Stained Hands"
-       author="Hayley Blair, Jordan Smith, & Gianna Welty"
+       author="Jordan Smith, Gianna Welty, & Hayley Blair"
        source-image="https://upload.wikimedia.org/wikipedia/commons/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg"
        layout="vertical">

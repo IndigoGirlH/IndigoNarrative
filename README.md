@@ -208,7 +208,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," _Social Scientist_ 5, no. 12 (1977): 13–23, 17.
 [^30]: Finlay, _Color_.
 [^31]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), <https://www.gutenberg.org/files/54027/54027-h/54027-h.htm>
-[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, <https://www.blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.>
+[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, <https://blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html.>
 [^33]: Mitra, _Nil Darpan_, 8.
 [^34]: Kling, _Blue Mutiny_, 199.
 [^35]: Shapland, “Nil Darpan.”

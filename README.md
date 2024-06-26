@@ -19,7 +19,7 @@ Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">b
 More than 750 species belong to the _Indigofera_ L. genus, and its native range spans Africa, Asia, the Southwest Pacific, the Central and Southern U.S., and the tropics.[^2] The genus belongs to the bean family (Fabaceae), and, as a legume, Indigo "can fix nitrogen in the soil, and therefore, it's used as a rotation crop in agriculture to improve soil quality."[^3] Perhaps the most well known of its species is _Indigofera tinctoria_, which, otherwise known as "true indigo," is the dominant species in the Indian subcontinent.[^4] Another well-known indigo species is _Indigo suffruticosa_, which is dominant in Central and South America.[^5] While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive <span data-mouseover-image-zoomto="337,271,153,161">round leaves</span>. Once these leaves are harvested, the blue dye is made through a process of fermentation. Leaves are "soaked in water and churned until they release a navy blue froth," which is then filtered for impurities and turned into a powder or paste.[^6] In most cases, this powder or paste is then used to create pigment for paint and a dye for clothing and textiles.
 <param ve-image
        label="Early Modern Indigofera Suffruticosa"
-       description="from the Nikolaus Joseph Freiherr von Jacquin's _Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones, Vol. iii (1797-1804)._"
+       description="from the Nikolaus Joseph Freiherr von Jacquin's Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones, Vol. iii (1797-1804)."
        license="Public domain"
        fit=contain
        url="https://www.biodiversitylibrary.org/pageImage/272700">
@@ -34,7 +34,8 @@ The earliest documented use of indigo can be found in 4000 B.C.E., located in wh
 ### Beautiful but banned
 Though indigo had a rich history in the Indus Valley, the initial reception in Europe in the sixteenth century was mixed. Some were astonished by the dyeing power of this freshly encountered plant and were eager to adopt it for profit or personal use. Others had already invested all their capital in woad, which had been commonly used to make blue dye since before Britain was conquered by the Romans. Although it was not as effective as indigo, woad had brought middle-class merchants great profit, and they had gained substantial influence sponsoring the creation of churches, towns, and universities with their wealth. After indigo arrived, suppliers of woad fought their potential obsolescence, and those who were heavily invested in the product fought to keep their profits secure. France enacted a death penalty law attached to the use of indigo in 1609, and, in Germany, indigo was known colloquially as the "devil's dye." England declared indigo a poisonous substance and banned it until 1660. Most dyers throughout Europe, however, ignored the law and mixed indigo with woad to produce stronger vats of dye.[^9] The East India Company (EIC), which was founded in 1600, happily supplied the illegal plant to dyers from India.[^10]​​ France changed their laws first and became the only legal source of indigo, an advantage that for a time allowed them to become the main supplier throughout Europe. This move gave them a head start in the competition for indigo profits that would continue through the next several hundred years.[^11]
 <param ve-image
-       label="Napolean's military uniforms, depicted on the right, were dyed with indigo." 
+       label="Napolean's military uniforms, depicted on the right in this political cartoon, were dyed with indigo." 
+       description="William Pitt, wearing a regimental uniform and hat, sitting at a table with Napoleon. They are each carving a large plum pudding on which is a map of the world."
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Caricature_gillray_plumpudding.jpg">
 
@@ -50,23 +51,25 @@ In the heat of this frantic rush for profit, European countries found that they 
 Two early modern accounts of the processes of indigo production in the Caribbean, one British and one French, highlight the labor-intensive nature of indigo production. In 1687, Hans Sloane traveled to Jamaica to serve as personal physician to the British governor of the island. In his _Natural History of Jamaica_, which documents the island's flora and fauna, he describes how indigo was processed in the Caribbean: "Some of the seeds…are put into holes at foot's distance…[it is] ready to cut in 3 months…" The indigo plant is then mixed with water, and after fermenting, is let out of the trempoire to the batterie, where "'tis beat till it granulates"[^14] The French-named trempoire and batterie refer to the sophisticated steepers and presses devised by European colonizers for the purpose of maximizing productivity. After the indigo is granulated, it is then mixed with more water and placed in sacks with oil beaten into it. After the beating process, an indigo paste forms that is settled, dried, and pressed into dye cakes. Sloane briefly mentions the enslaved laborers who would have carried out this process when writing that "Some negroes and French have been kill'd by its ill savour," drawing attention to the potential dangers of the plant even to those who are knowledgeable about it.[^15] An intensive and sometimes life-threatening process, indigo production as carried out by enslaved laborers certainly inscribed their bodies with its legacy, whether it be through stained hands, lifelong ailments, or death.
 <param ve-image 
        label="Indigo Production, French West Indies, 1667" 
-       description="from _Histoire Générale des Antilles Habitées par less Francois_."
+       description="from Histoire Générale des Antilles Habitées par les Francois (1667–1671)."
        license="Public domain"
        fit=contain
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg">
 
 Unlike Sloane, most colonial accounts elided the dangers of indigo production that sometimes led to the deaths of enslaved laborers. For example, Jean-Baptiste Labat preferred to focus on technology. In 1694, Labat traveled to Martinique for the purposes of missionary work. He continued to make his way through the Antilles and recounted his experiences in his _Nouveau Voyage aux isles Francoises de l'Amerique_. He also wrote about French indigo production in the Caribbean and provided another detailed account of the technology used: it is produced in three vats that form a cascade from top to bottom. These vats are the steeper, the battery, and the devilling. The steeper is where the indigo is fermented, the battery is where the indigo is beaten, and the devilling is where the indigo begins the process of turning into a dye.[^16] Labat does not mention who is performing this labor-intensive process: that is, enslaved laborers, some of whom were owned by Labat himself. This erasure of labor within the account speaks to a pattern of separating the enslaved from the history of indigo production.
 <param ve-image 
-       label="Jean Baptiste Labat portrait" 
+       label="An illustration of "
+       description="From Paul de Beauvais-Rasea's L'art de l'indigotier (1770)"
        license="Public domain"
        fit=contain
-       url="https://www.biodiversitylibrary.org/page/40474136#page/135/mode/1up">
+       url="https://www.biodiversitylibrary.org/pageImage/40474136#page/135/mode/1up">
 
 ### South Carolina Enters the Indigo market
 
 In spite of the promise of indigo in the Caribbean, near the end of the seventeenth century, the British Parliament imposed an export duty on Jamaican indigo as a means of compelling planters into sugar cultivation in the Caribbean.[^17] Around the same time, early settlers in South Carolina had begun experimenting with planting indigo.[^18] Due to the War of Jenkins' Ear, British ports were closed to goods from France and Spain from 1739 to 1743. As a result, England officially turned to the American colonies for its indigo supply, and the plant's popularity as a cash crop made South Carolina the wealthiest British North American colony throughout the eighteenth century.[^19] This success is usually attributed to the agricultural innovations and experiments of Eliza Lucas Pinckney, who lived in the Lowcountry and managed the colony's most well-known indigo plantation, Wappoo Hall. This is where she first had indigo planted in 1740, when she was just eighteen years old. While the indigo business started to take off, South Carolina still relied on the labor and expertise of Caribbean planters. Pinckney only learned how to cultivate indigo in 1741 with the guidance of Nicholas Cromwell, a white contract laborer from Montserrat whom her father had hired to teach her how to make indigo dye cakes.[^20]
 <param ve-image 
        label="Pinckney’s Snee Farm, another site of indigo production, is now a national historic landmark." 
+       description="Snee Farm was used by Charles Pinckney as a working plantation and country estate until 1816. The farm was listed on the National Register of Historic Places and as a National Historic Landmark in 1973."
        license="Creative Commons"
 url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Main_House%2C_Snee_Farm%2C_Mount_Pleasant%2C_SC_-_50738315566.jpg"
        fit="contain">
@@ -110,21 +113,23 @@ The revolts, the play, and the subsequent Indigo Commission did result in reform
        label="Indigo dye factory in Bengal, 1867"
        license="Public Domain"
        fit=contain
+       description="Chromolithograph, Indigo factory, Bengal, (1867) from William Simpson's 'India: Ancient and Modern'. Bengal was the world's largest producer of indigo in the 19th century."
 url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Indigo_factory_bengal2_%281%29.jpg">
 
 Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress meeting in 1916 to see the plight of indigo farmers for himself, and he visited Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran was threatened by his presence and asked him to leave immediately. Gandhi refused to retreat until he had completed his mission, however, and rumors spread among the people that the magistrate had been forced to apologize, spreading hope. Gandhi wrote to the Government of Bihar with thousands of accounts from indigo workers he had collected via interviews, and officials appointed an enquiry committee, which made "drastic recommendations in its report to improve the state of affairs in the district," which were then mostly implemented by the government.[^40]  His agitation on behalf of Indian growers of Champaran became known as the Champaran Satyagraha. Satyagraha is the term Gandhi coined to describe his methods of peaceful resistance, derived from the Sanskrit words _Satya_ (truth) and _agraha_ (firmness or force).[^41] His successful protests against the oppression and exploitation of the indigo farmers in Champaran became "the first laboratory of experiment…for his political ideas" and were an important origin point for his peaceful resistance to British rule in India.[^42]
 <param ve-image
        label="Blue stamp commemorating the 100th anniversary of Champaran Satyagraha"
-       description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
-       license="Wikimedia Commons"
+       description="The stamps includes a quote from Gandhi, which reads 'It is no exaggeration, but the literal truth, to say that in this meeting with the peasants I was face to face with God, Ahimsa and Truth."
+       license="Government Open Data License - India"
        fit=contain
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Stamp_of_India_-_2017_-_Colnect_700591_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
 ### Impact of synthetic dyes today
 Though the Champaran Satyagraha was an important step both for India's independence and a more ethical indigo farming industry, health and labor issues for factory workers continue today, even though the use of natural indigo dye has declined significantly due to the rise and dominance of synthetic indigo dye in the twentieth century. The enduring demand for blue dye in the textile industry has placed synthetic indigo production on a large-scale industrial level: every year, about 80,000 tons of chemically produced indigo are created using non-renewable petrochemicals, generating toxic compounds. Moreover, at least 400 tons of aniline (a toxic carcinogen) are released each year from synthetic indigo production. Two-thirds of this compound are either diffused into surrounding air and wastewater or unintentionally absorbed by plant workers. One-third of the compound remains in the denim that consumers eventually buy and wear. This type of large-scale chemical production creates additional issues with disposal, and because wastewater treatments are expensive, "many facilities dump the spent dyestuff directly into rivers, contributing to environmental pollution." While just 17 production sites are responsible for most of the world's synthetic indigo dye, only one falls under any type of wastewater restrictions. Low-income communities are disproportionately affected by the harmful effects of synthetic indigo production. About 87 percent of synthetic production today is "located in low-wage and lower-income countries," which means workers and local inhabitants are exposed to toxic environments, and workers are compensated for little to no pay.[^43] Although it would be hoped that poor treatment of people in the name of indigo profits would be a thing of the past, unethical practices impacting workers, consumers, and communities still remain.
 <param ve-image
-       label="Denim Factory"
-       license="Public domain"
+       label="Present day denim factory in Bangladesh"
+       description="Synthetic indigo is often used to dye denim"
+       license="Creative Commons"
        contain=fit
        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.JPG">
 
@@ -133,7 +138,7 @@ Though the Champaran Satyagraha was an important step both for India's independe
 Julie Dash's 1991 film, _Daughters of the Dust_, uses indigo to reveal the lasting impact of slavery in twentieth-century South Carolina. In the film, Dash uses the indigo-stained hands of formerly enslaved people as a symbol of bodily subjection and generational trauma, the same issues that Mitra had focused on in his drama more than 100 years prior. The Peazant family lives on Igbo Landing, and their enslaved ancestors were forced to work on indigo plantations. Though they are no longer enslaved in the film, the stained hands of the eldest generation serve as a reminder of a painful past. Gullah expert Margaret Washington Creel notes that although indigo stains are not permanent, it left indelible "scars" on the flesh.[^44] While indigo stains here represent trauma, they also conversely illustrate the durability of the family's Gullah culture and language. Tiffany Lethabo King considers the image of "porous indigo-stained hands" as a rendering of "black fungibility": a way of "[visualizing] Blackness as an open state of possibility with the capacity to transform conditions of subjection."[^45] As such, the deep blue of indigo, which also dyes the Peazant women's clothing and floods beautiful shots of the landing's ocean scenery, becomes a stand-in for the family's simultaneous boundlessness, resiliency, and inter-generational bond. 
 <param ve-image 
        label="On the set of Daughters of the Dust" 
-       description="Hairstylist Pamela Ferrell on set of film _Daughters of the Dust_ in Saint Helena Island, SC, 1989."
+       description="Hairstylist Pamela Ferrell on set of film Daughters of the Dust in Saint Helena Island, SC, 1989."
        license="Creative Commons"
 url="https://upload.wikimedia.org/wikipedia/commons/7/77/Pamela_Ferrell_on_set_Film_Daughters_of_the_Dust_in_1989.png">
 
@@ -141,6 +146,7 @@ Now in the twenty-first century, natural indigo dye is starting to reemerge in S
 <param ve-image 
        label="Indigo textile art" 
        license="Creative commons"
+       description="This image depicts Indigo Hand Block Printing in the Mühlviertel Region, traditional craftsmanship in Upper Austria, inscribed in the Unesco ICH Austrian inventory in 2015."
        url="https://upload.wikimedia.org/wikipedia/commons/1/18/Zeugf%C3%A4rberei_Gutau_Blauf%C3%A4rbung_von_Textilien.jpg">
 
 ### "Making and Mending" Indigo: New York Botanical Gardens and SOMArts

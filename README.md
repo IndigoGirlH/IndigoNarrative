@@ -185,14 +185,14 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^6]: "Indigo," MAP Academy Encyclopedia of Art, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/.
 [^7]: Jha, “Plant of the Month: Indigo.”
 [^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," Indian Journal of History of Science 53, no. 3 (2018): 297.
-[^9]: Victoria Finlay, Color: A Natural History of the Palette (Random House Trade Paperbacks, 2004).
-[^10]: Kirti N. Chaudhuri, The English East India Company: The Study of an Early Joint-Stock Company, 1600-1640 (Routledge, 1999). 
-[^11]: Finlay, Color.
-[^12]: Prakash Kumar, Indigo Plantations and Science in Colonial India,(Cambridge: Cambridge University Press, 2012), 27.
-[^13]: Kumar, Indigo Plantations and Science, 29.
-[^14]: Hans Sloane, A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica (London, 1725), 35.
+[^9]: Victoria Finlay, _Color: A Natural History of the Palette_ (Random House Trade Paperbacks, 2004).
+[^10]: Kirti N. Chaudhuri, _The English East India Company: The Study of an Early Joint-Stock Company, 1600-1640_ (Routledge, 1999). 
+[^11]: Finlay, _Color_.
+[^12]: Prakash Kumar, _Indigo Plantations and Science in Colonial India_ (Cambridge: Cambridge University Press, 2012), 27.
+[^13]: Kumar, _Indigo Plantations and Science_, 29.
+[^14]: Hans Sloane, _A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica_ (London, 1725), 35.
 [^15]: Ibid.
-[^16]: Jean-Baptise Labat, Nouveau Voyage aux isles Francoises de l'Amerique (1722), quoted in Philip Miller, The Gardeners Dictionary (London, 1768).
+[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, The Gardeners Dictionary (London, 1768).
 [^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 94.
 [^18]: Sharrer, “Indigo in Carolina,” 95.
 [^19]: Ibid.
@@ -207,9 +207,9 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^28]: Kling, Blue Mutiny, 8.
 [^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," Social Scientist 5, no. 12 (1977): 13–23, 17.
 [^30]: Finlay, Color.
-[^31]: Dinabandhu Mitra, Nil Darpan; or, The Indigo Planting Mirror: A Drama, trans. Michael Madhususan Dutt, (Calcutta, 1861), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
+[^31]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
 [^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," Untold Lives, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
-[^33]: Mitra, Nil Darpan, 8.
+[^33]: Mitra, _Nil Darpan_, 8.
 [^34]: Kling, Blue Mutiny, 199.
 [^35]: Shapland, “Nil Darpan.”
 [^36]: John Long, Statement by the Rev. J. Long of His Connections with the Nil Darpan (Calcutta: Sanders, Cones and Co., 1861), 6.

@@ -58,7 +58,7 @@ Two early modern accounts of the processes of indigo production in the Caribbean
 
 Unlike Sloane, most colonial accounts elided the dangers of indigo production that sometimes led to the deaths of enslaved laborers. For example, <span eid="Q558167">Jean-Baptiste Labat</span> preferred to focus on technology. In 1694, Labat traveled to Martinique for the purposes of missionary work. He continued to make his way through the Antilles and recounted his experiences in his _Nouveau Voyage aux isles Francoises de l'Amerique_. He also wrote about French indigo production in the Caribbean and provided another detailed account of the technology used: it is produced in three vats that form a cascade from top to bottom. These vats are the steeper, the battery, and the devilling. The steeper is where the indigo is fermented, the battery is where the indigo is beaten, and the devilling is where the indigo begins the process of turning into a dye.[^16] Labat does not mention who is performing this labor-intensive process: that is, enslaved laborers, some of whom were owned by Labat himself. This erasure of labor within the account speaks to a pattern of separating the enslaved from the history of indigo production.
 <param ve-image 
-       label="An illustration of "
+       label="Diagrams of the indigo production process in the 18th century."
        description="From Paul de Beauvais-Rasea's L'art de l'indigotier (1770)"
        license="Public domain"
        fit=contain

@@ -225,3 +225,4 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^52]: "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
 [^53]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf/.
 [^54]:  Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," SFGATE, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.
+[^55]: SOMArts citation here

@@ -195,7 +195,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^16]: Jean-Baptise Labat, Nouveau Voyage aux isles Francoises de l'Amerique (1722), quoted in Philip Miller, The Gardeners Dictionary (London, 1768).
 [^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 94.
 [^18]: Sharrer, “Indigo in Carolina,” 95.
-[^19]: Sharrer, “Indigo in Carolina,” 95.
+[^19]: Ibid.
 [^20]: Andrea Feeser, Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life, (Athens: University of Georgia Press, 2013), 99–108, 103.
 [^21]: Feeser, Red, White, and Black Make Blue, 108.
 [^22]: Feeser, Red, White, and Black Make Blue, 99.

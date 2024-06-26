@@ -196,12 +196,12 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 94.
 [^18]: Sharrer, “Indigo in Carolina,” 95.
 [^19]: Ibid.
-[^20]: Andrea Feeser, Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life, (Athens: University of Georgia Press, 2013), 99–108, 103.
-[^21]: Feeser, Red, White, and Black Make Blue, 108.
-[^22]: Feeser, Red, White, and Black Make Blue, 99.
-[^23]: Feeser, Red, White, and Black Make Blue, 105.
-[^24]: Feeser, Red, White, and Black Make Blue, 106-7.
-[^25]: Feeser, Red, White, and Black Make Blue, 106.
+[^20]: Andrea Feeser, _Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life_, (Athens: University of Georgia Press, 2013), 99–108, 103.
+[^21]: Feeser, _Red, White, and Black Make Blue_, 108.
+[^22]: Feeser, _Red, White, and Black Make Blue_, 99.
+[^23]: Feeser, _Red, White, and Black Make Blue_, 105.
+[^24]: Feeser, _Red, White, and Black Make Blue_, 106-7.
+[^25]: Feeser, _Red, White, and Black Make Blue_, 106.
 [^26]: Finlay, Color. 
 [^27]: Blair B. Kling, The Blue Mutiny: The Indigo Disturbance in Bengal 1859–1862 (Philadelphia: UPenn Press, 1966), 7.
 [^28]: Kling, Blue Mutiny, 8.
@@ -228,7 +228,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^49]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, https://madamemagar.com/vision.
 [^50]: Leigh Magar quoted in Graham, “The Blue That Enchanted the World.”
 [^51]: Kennedy, “Indigo is making a comeback.”
-[^52]: Sria Chatterjee, “The Long Shadow of Colonial Science,” Noema, March 11 2021, https://www.noemamag.com/the-long-shadow-of-colonial-science/. 
+[^52]: Sria Chatterjee, “The Long Shadow of Colonial Science,” _Noema_, March 11 2021, https://www.noemamag.com/the-long-shadow-of-colonial-science/. 
 [^53]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
 [^54]:  "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
 [^55]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf

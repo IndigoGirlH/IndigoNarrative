@@ -228,8 +228,8 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^49]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, https://madamemagar.com/vision.
 [^50]: Leigh Magar quoted in Graham, “The Blue That Enchanted the World.”
 [^51]: Kennedy, “Indigo is making a comeback.”
-[^52]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
-[^53]: "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
-[^54]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf/.
-[^55]:  Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," SFGATE, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.
-[^56]: SOMArts citation here
+[^52]: Sria Chatterjee, “The Long Shadow of Colonial Science,” Noema, March 11 2021, https://www.noemamag.com/the-long-shadow-of-colonial-science/. 
+[^53]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
+[^54]:  "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
+[^55]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf
+[^56]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," SFGATE, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.

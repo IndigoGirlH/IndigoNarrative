@@ -163,7 +163,7 @@ Botanical projects are not the only way to mend and reclaim the history of indig
        label="African indigo-dyed cotton" 
        description="Exhibitions like The Indigo Project seek to highlight Africa's role in indigo production."
        license="Public domain"
-       url="https://commons.wikimedia.org/wiki/File:Tissages_de_coton_indigo_01.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tissages_de_coton_indigo_01.jpg"
        fit="contain">
 
 ### Bringing beauty to the forefront

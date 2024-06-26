@@ -177,14 +177,14 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 
 # References
 
-[^1]: Abbie Vandivere, Jorgen Wadum, and Emilien Leonhardt, "The Girl in the Spotlight: Vermeer at Work, His Materials and Techniques in Girl with a Pearl Earring," Heritage Science 8, no. 1 (2020): 5.
+[^1]: Abbie Vandivere, Jorgen Wadum, and Emilien Leonhardt, "The Girl in the Spotlight: Vermeer at Work, His Materials and Techniques in Girl with a Pearl Earring," _Heritage Science_ 8, no. 1 (2020): 5.
 [^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2.
-[^3]: Suryatapa Jha, "Plant of the Month: Indigo," JSTOR Daily, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
+[^3]: Suryatapa Jha, "Plant of the Month: Indigo," _JSTOR Daily_, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
 [^4]: Ibid.
 [^5]: "Indigo suffruticosa," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1.
-[^6]: "Indigo," MAP Academy Encyclopedia of Art, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/.
+[^6]: "Indigo," _MAP Academy Encyclopedia of Art_, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/.
 [^7]: Jha, “Plant of the Month: Indigo.”
-[^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," Indian Journal of History of Science 53, no. 3 (2018): 297.
+[^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," _Indian Journal of History of Science_ 53, no. 3 (2018): 297.
 [^9]: Victoria Finlay, _Color: A Natural History of the Palette_ (Random House Trade Paperbacks, 2004).
 [^10]: Kirti N. Chaudhuri, _The English East India Company: The Study of an Early Joint-Stock Company, 1600-1640_ (Routledge, 1999). 
 [^11]: Finlay, _Color_.
@@ -192,8 +192,8 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^13]: Kumar, _Indigo Plantations and Science_, 29.
 [^14]: Hans Sloane, _A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica_ (London, 1725), 35.
 [^15]: Ibid.
-[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, The Gardeners Dictionary (London, 1768).
-[^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 94.
+[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, _The Gardeners Dictionary_ (London, 1768).
+[^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," _The South Carolina Historical Magazine_ 72, no. 2 (1971): 94–103, 94.
 [^18]: Sharrer, “Indigo in Carolina,” 95.
 [^19]: Ibid.
 [^20]: Andrea Feeser, _Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life_, (Athens: University of Georgia Press, 2013), 99–108, 103.

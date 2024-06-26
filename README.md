@@ -178,11 +178,11 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 # References
 
 [^1]: Abbie Vandivere, Jorgen Wadum, and Emilien Leonhardt, "The Girl in the Spotlight: Vermeer at Work, His Materials and Techniques in Girl with a Pearl Earring," _Heritage Science_ 8, no. 1 (2020): 5.
-[^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, [https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2].
-[^3]: Suryatapa Jha, "Plant of the Month: Indigo," _JSTOR Daily_, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
+[^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, <https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2>.
+[^3]: Suryatapa Jha, "Plant of the Month: Indigo," _JSTOR Daily_, JSTOR, June 22, 2023, <https://daily.jstor.org/plant-of-the-month-indigo/>.
 [^4]: Ibid.
-[^5]: "Indigo suffruticosa," _Plants of the World Online_, Royal Botanical Gardens Kew, accessed April 29, 2023, (https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1).
-[^6]: "Indigo," _MAP Academy Encyclopedia of Art_, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/.
+[^5]: "Indigo suffruticosa," _Plants of the World Online_, Royal Botanical Gardens Kew, accessed April 29, 2023, <https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1>.
+[^6]: "Indigo," _MAP Academy Encyclopedia of Art_, MAP Academy, April 21, 2022, <https://mapacademy.io/article/indigo/>.
 [^7]: Jha, “Plant of the Month: Indigo.”
 [^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," _Indian Journal of History of Science_ 53, no. 3 (2018): 297.
 [^9]: Victoria Finlay, _Color: A Natural History of the Palette_ (Random House Trade Paperbacks, 2004).
@@ -207,29 +207,29 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^28]: Kling, _Blue Mutiny_, 8.
 [^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," _Social Scientist_ 5, no. 12 (1977): 13–23, 17.
 [^30]: Finlay, _Color_.
-[^31]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
-[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
+[^31]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), <https://www.gutenberg.org/files/54027/54027-h/54027-h.htm>
+[^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, <https://www.blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.>
 [^33]: Mitra, _Nil Darpan_, 8.
 [^34]: Kling, _Blue Mutiny_, 199.
 [^35]: Shapland, “Nil Darpan.”
 [^36]: John Long, _Statement by the Rev. J. Long of His Connections with the Nil Darpan_ (Calcutta: Sanders, Cones and Co., 1861), 6.
 [^37]: Long, _Statement_, 6.
 [^38]: _Report of the Indigo Commission_.
-[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," _Proceedings of the Indian History Congress_ 15 (1952): 327–32, http://www.jstor.org/stable/45436505.
+[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," _Proceedings of the Indian History Congress_ 15 (1952): 327–32, <http://www.jstor.org/stable/45436505.>
 [^40]: Ghosal, “Indigo in North Bihar.”
 [^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative_ (New Delhi: Concept Pub. Co., 2005). 
 [^42]: Ghosal, “Indigo in North Bihar.”
-[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," _Bioresources and Bioprocessing_ 10, March 13, 2023, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.
+[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," _Bioresources and Bioprocessing_ 10, March 13, 2023, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.>
 [^44]: Linke, Rayat, and Ward.
 [^45]: Margaret Washington Creel quoted in Tiffany Lethabo King, "The Labor of (Re)reading Plantation Landscapes Fungible(ly)," Antipode 48, no. 4 (2016): 1022–39, 1033–34.
 [^46]: King, “The Labor of (Re)reading,” 1023.
-[^47]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.
-[^48]: Barbara Noe Kennedy, "Indigo is making a comeback in South Carolina—here's where to find it," National Geographic, 7 March 2013. nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.
-[^49]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, https://madamemagar.com/vision.
+[^47]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, <https://www.smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.>
+[^48]: Barbara Noe Kennedy, "Indigo is making a comeback in South Carolina—here's where to find it," National Geographic, 7 March 2013. <https://www.nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.>
+[^49]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, <https://madamemagar.com/vision.>
 [^50]: Leigh Magar quoted in Graham, “The Blue That Enchanted the World.”
 [^51]: Kennedy, “Indigo is making a comeback.”
-[^52]: Sria Chatterjee, “The Long Shadow of Colonial Science,” _Noema_, March 11 2021, https://www.noemamag.com/the-long-shadow-of-colonial-science/. 
-[^53]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
-[^54]:  "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.
-[^55]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf
-[^56]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," _SFGATE_, December 15, 2022, https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.
+[^52]: Sria Chatterjee, “The Long Shadow of Colonial Science,” _Noema_, March 11 2021, <https://www.noemamag.com/the-long-shadow-of-colonial-science/.>
+[^53]: "African American Garden: Remembrance and Resilience," New York Botanical Garden, accessed 6 May 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.>
+[^54]:  "African American Garden: The Caribbean Experience," New York Botanical Garden, accessed 6 May 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-the-caribbean-experience/.>
+[^55]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, <https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf.>
+[^56]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," _SFGATE_, December 15, 2022, <https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.>

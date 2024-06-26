@@ -181,7 +181,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2.
 [^3]: Suryatapa Jha, "Plant of the Month: Indigo," _JSTOR Daily_, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
 [^4]: Ibid.
-[^5]: "Indigo suffruticosa," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1.
+[^5]: "Indigo suffruticosa," _Plants of the World Online_, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1.
 [^6]: "Indigo," _MAP Academy Encyclopedia of Art_, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/.
 [^7]: Jha, “Plant of the Month: Indigo.”
 [^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," _Indian Journal of History of Science_ 53, no. 3 (2018): 297.
@@ -202,11 +202,11 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^23]: Feeser, _Red, White, and Black Make Blue_, 105.
 [^24]: Feeser, _Red, White, and Black Make Blue_, 106-7.
 [^25]: Feeser, _Red, White, and Black Make Blue_, 106.
-[^26]: Finlay, Color. 
+[^26]: Finlay, _Color_. 
 [^27]: Blair B. Kling, _The Blue Mutiny: The Indigo Disturbance in Bengal 1859–1862_ (Philadelphia: UPenn Press, 1966), 7.
 [^28]: Kling, _Blue Mutiny_, 8.
 [^29]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," _Social Scientist_ 5, no. 12 (1977): 13–23, 17.
-[^30]: Finlay, Color.
+[^30]: Finlay, _Color_.
 [^31]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), https://www.gutenberg.org/files/54027/54027-h/54027-h.htm
 [^32]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html#:~:text=Nil%20Darpan%20(sometimes%20Nil%20Durpan,ryots%20by%20the%20indigo%20planters.
 [^33]: Mitra, _Nil Darpan_, 8.

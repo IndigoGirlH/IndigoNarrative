@@ -220,7 +220,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative (vol. 3: Socio-Political Thoughts_ (New Delhi: Concept Publishing Co., 2005), 65. 
 [^42]: Ghosal, “Indigo in North Bihar,” 327. 
 [^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," _Bioresources and Bioprocessing_ 10, March 13, 2023, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.>: 7.
-[^44]: Linke, Rayat, and Ward, 8.
+[^44]: Linke, Rayat, and Ward, "Indigo Production," 8.
 [^45]: Margaret Washington Creel quoted in Tiffany Lethabo King, "The Labor of (Re)reading Plantation Landscapes Fungible(ly)," Antipode 48, no. 4 (2016): 1022–39, 1033–34.
 [^46]: King, “The Labor of (Re)reading,” 1023.
 [^47]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, <https://www.smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.>

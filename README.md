@@ -214,7 +214,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^35]: Shapland, “Nil Darpan.”
 [^36]: John Long, _Statement by the Rev. J. Long of His Connections with the Nil Darpan_ (Calcutta: Sanders, Cones and Co., 1861), 6.
 [^37]: Ibid
-[^38]: _Report of the Indigo Commission_.
+[^38]: EWL Tower quoted in Walter Scott Seton-Karr. _Report of the Indigo Commission Appointed Under Act XI. of 1860: With the Minutes of Evidence Taken Before Them; and Appendix_. India: n.p., 1860, 54.
 [^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," _Proceedings of the Indian History Congress_ 15 (1952): 327–32, 329.
 [^40]: Ghosal, “Indigo in North Bihar,” 331.
 [^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative (vol. 3: Socio-Political Thoughts_ (New Delhi: Concept Publishing Co., 2005), 65. 

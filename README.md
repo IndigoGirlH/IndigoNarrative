@@ -25,7 +25,7 @@ More than 750 species belong to the _Indigofera_ L. genus, and its native range 
        url="https://www.biodiversitylibrary.org/pageImage/272700">
 
 ### Ancient & Indigenous Uses of Indigo
-The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru.[^7] Throughout the Americas in ancient and premodern times, the species _Indigofera suffruticosa_ was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, around 3000 B.C.E., indigo in the form of the species _Indigofera tinctoria_ was cultivated in the <span eid="Q42534">Indus Valley</span>. This is the location from which indigo entered the European market, and it became known throughout the Roman Empire as _indicium_.[^8] As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia.
+The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru.[^7] Throughout the Americas in ancient and premodern times, the species _Indigofera suffruticosa_ was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, around 3000 B.C.E., indigo in the form of the species _Indigofera tinctoria_ was cultivated in the <span eid="Q42534">Indus Valley</span>. This is the location from which indigo entered the European market, and it became known throughout the Roman Empire as _indicium_.[^8] As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and <span eid="Q11767">Mesopotamia</span>.
 <param ve-image
        label="Map of the Indus Valley, c. 2600–1900 BCE"
        license="Public domain"
@@ -58,7 +58,7 @@ Two early modern accounts of the processes of indigo production in the Caribbean
 
 Unlike Sloane, most colonial accounts elided the dangers of indigo production that sometimes led to the deaths of enslaved laborers. For example, <span eid="Q558167">Jean-Baptiste Labat</span> preferred to focus on technology. In 1694, Labat traveled to Martinique for the purposes of missionary work. He continued to make his way through the Antilles and recounted his experiences in his _Nouveau Voyage aux isles Francoises de l'Amerique_. He also wrote about French indigo production in the Caribbean and provided another detailed account of the technology used: it is produced in three vats that form a cascade from top to bottom. These vats are the steeper, the battery, and the devilling. The steeper is where the indigo is fermented, the battery is where the indigo is beaten, and the devilling is where the indigo begins the process of turning into a dye.[^16] Labat does not mention who is performing this labor-intensive process: that is, enslaved laborers, some of whom were owned by Labat himself. This erasure of labor within the account speaks to a pattern of separating the enslaved from the history of indigo production.
 <param ve-image 
-       label="Diagrams of the indigo production process in the 18th century."
+       label="Diagrams of the indigo production process in the 18th century"
        description="From Paul de Beauvais-Rasea's L'art de l'indigotier (1770)"
        license="Public domain"
        fit=contain
@@ -94,7 +94,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_Nation
 ### Imperialism in India and the Indigo Revolt
 Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state's youths, "not one… remembers the cultivation of indigo." Indeed, following the American Revolution in 1776, England turned to India for its indigo supply due to political tensions with the newly formed United States. Many English planters coerced Bengali farmers into growing indigo through both lawful and criminal means. One notorious planter named George Meares burned the homes of uncooperative farmers to the ground and successfully petitioned the government to forbid the growth of the rice on land used for indigo.[^26] As a response to this poor treatment, the "Blue Mutiny" occurred in 1859, and prisons were flooded past capacity with arrested protestors who refused to sow indigo for English planters.[^27] The years leading up to the revolt had seen the beginnings of a national sentiment in Calcutta stemming from "a political struggle against the British mercantile community," as well as "the rise of new social classes in rural Bengal."[^28] With a newly heightened political consciousness, the Bengali farmers' collective action continued for more than a year.[^29]
 <param ve-image
-       label="Group of Indigo beaters in India (1877)"
+       label="Group of Indigo beaters in India, 1877"
        description="The planting and manufacture of Indigo in Allahabad, India in 1877"
        license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ef/20-Group-of_Indigo-beaters.jpg">
@@ -192,7 +192,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^13]: Kumar, _Indigo Plantations and Science_, 29.
 [^14]: Hans Sloane, _A Voyage to the Islands Madera, Barbados, Nieves, St. Christophers and Jamaica, Vol. II_ (London, 1725), 35.
 [^15]: Ibid.
-[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, _The Gardeners Dictionary_, "Indigofera" (London, 1768).
+[^16]: Jean-Baptise Labat, _Nouveau Voyage aux isles Francoises de l'Amerique_ (1722), quoted in Philip Miller, _The Gardeners Dictionary_, "Indigofera" (London, 1768), 593.
 [^17]: G. Terry Sharrer, "Indigo in Carolina, 1671-1796," _The South Carolina Historical Magazine_ 72, no. 2 (1971): 94–103, 94.
 [^18]: Sharrer, “Indigo in Carolina,” 95.
 [^19]: Ibid.
@@ -213,14 +213,14 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^34]: Kling, _Blue Mutiny_, 199.
 [^35]: Shapland, “Nil Darpan.”
 [^36]: John Long, _Statement by the Rev. J. Long of His Connections with the Nil Darpan_ (Calcutta: Sanders, Cones and Co., 1861), 6.
-[^37]: Long, _Statement_, 6.
+[^37]: Ibid
 [^38]: _Report of the Indigo Commission_.
-[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," _Proceedings of the Indian History Congress_ 15 (1952): 327–32, <http://www.jstor.org/stable/45436505.>
-[^40]: Ghosal, “Indigo in North Bihar.”
-[^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative_ (New Delhi: Concept Pub. Co., 2005). 
-[^42]: Ghosal, “Indigo in North Bihar.”
-[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," _Bioresources and Bioprocessing_ 10, March 13, 2023, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.>
-[^44]: Linke, Rayat, and Ward.
+[^39]: Hari Ranjan Ghosal, "Indigo in North Bihar And Mahatma Gandhi," _Proceedings of the Indian History Congress_ 15 (1952): 327–32, 329.
+[^40]: Ghosal, “Indigo in North Bihar,” 331.
+[^41]: Anil Dutta Misra and Sushma Yadav, _Gandhian Alternative (vol. 3: Socio-Political Thoughts_ (New Delhi: Concept Publishing Co., 2005), 65. 
+[^42]: Ghosal, “Indigo in North Bihar,” 327. 
+[^43]: Julia A. Linke, Andrea Rayat, and John M. Ward, "Production of Indigo by Recombinant Bacteria," _Bioresources and Bioprocessing_ 10, March 13, 2023, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10011309/.>: 7.
+[^44]: Linke, Rayat, and Ward, 8.
 [^45]: Margaret Washington Creel quoted in Tiffany Lethabo King, "The Labor of (Re)reading Plantation Landscapes Fungible(ly)," Antipode 48, no. 4 (2016): 1022–39, 1033–34.
 [^46]: King, “The Labor of (Re)reading,” 1023.
 [^47]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, <https://www.smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.>

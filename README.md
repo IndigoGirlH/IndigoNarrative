@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Indigo: Stains and Layers of Paint, History, and Art"
+       title="Indigo: Layers of Paint, History, and Art"
        author="Jordan Noelle Smith, Gianna Welty, & Hayley Blair"
        source-image="https://upload.wikimedia.org/wikipedia/commons/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg"

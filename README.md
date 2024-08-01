@@ -188,7 +188,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^6]: "Indigo," _MAP Academy Encyclopedia of Art_, MAP Academy, April 21, 2022, <https://mapacademy.io/article/indigo/>.
 [^7]: Jha.
 [^8]: Rajendra Prasad, "Indigo: The Crop that Created History and then Itself Became History," _Indian Journal of History of Science_ 53, no. 3 (2018): 297.
-[^9]: Brandon Tensley, "How Denim Became a Political Symbol of the 1960s: The blue jeans fabric conquered pop culture and fortified the civil rights movement," _Smithsonian Magazine_, December 2020, https://www.smithsonianmag.com/arts-culture/denim-political-symbol-1960s-180976241/.
+[^9]: Brandon Tensley, "How Denim Became a Political Symbol of the 1960s: The blue jeans fabric conquered pop culture and fortified the civil rights movement," _Smithsonian Magazine_, December 2020, <https://www.smithsonianmag.com/arts-culture/denim-political-symbol-1960s-180976241/>.
 [^10]: Victoria Finlay, "Indigo" in _Color: A Natural History of the Palette_ (Random House Trade Paperbacks, 2004), 318–351, 327.
 [^11]: Kirti N. Chaudhuri, _The English East India Company: The Study of an Early Joint-Stock Company, 1600-1640_ (Routledge, 1999). 
 [^12]: Finlay, 328–329.

@@ -212,8 +212,8 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^30]: Kling, 8.
 [^31]: Subhas Bhattacharya, "The Indigo Revolt of Bengal," _Social Scientist_ 5, no. 12 (1977): 13–23.
 [^32]: Finlay, 345–346.
-[^33]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), <https://www.gutenberg.org/files/54027/54027-h/54027-h.htm>
-[^34]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, <https://blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html.>
+[^33]: Dinabandhu Mitra, _Nil Darpan; or, The Indigo Planting Mirror: A Drama_, trans. Michael Madhususan Dutt, (Calcutta, 1861), <https://www.gutenberg.org/files/54027/54027-h/54027-h.htm>.
+[^34]: Lesley Shapland, "Nil Darpan: the Indigo Revolt and the Trial of Reverend James Long," _Untold Lives_, British Library, 2 Sept. 2020, <https://blogs.bl.uk/untoldlives/2020/09/nil-darpan-the-indigo-revolt-and-the-trial-of-reverend-james-long.html>.
 [^35]: Mitra, 8.
 [^36]: Kling, 199.
 [^37]: Shapland.
@@ -228,13 +228,13 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 [^46]: Linke, Rayat, and Ward, 8.
 [^47]: Margaret Washington Creel quoted in Tiffany Lethabo King, "The Labor of (Re)reading Plantation Landscapes Fungible(ly)," _Antipode_ 48, no. 4 (2016): 1022–1039.
 [^48]: King, 1023.
-[^49]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, <https://www.smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.>
-[^50]: Barbara Noe Kennedy, "Indigo is making a comeback in South Carolina—here's where to find it," _National Geographic_, March 7, 2013, <https://www.nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.>
-[^51]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, <https://madamemagar.com/vision.>
+[^49]: Latria Graham, "The Blue That Enchanted the World," _Smithsonian Magazine_, December 2022, <https://www.smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/>.
+[^50]: Barbara Noe Kennedy, "Indigo is making a comeback in South Carolina—here's where to find it," _National Geographic_, March 7, 2013, <https://www.nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations>.
+[^51]: Leigh Magar, "Madame Magar Vision," accessed 6 May 2024, <https://madamemagar.com/vision>.
 [^52]: Leigh Magar quoted in Graham.
 [^53]: Kennedy.
-[^54]: Sria Chatterjee, “The Long Shadow of Colonial Science,” _Noema_, March 11, 2021, <https://www.noemamag.com/the-long-shadow-of-colonial-science/.>
-[^55]: New York Botanical Garden, "African American Garden: Remembrance and Resilience," accessed May 6, 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.>
+[^54]: Sria Chatterjee, “The Long Shadow of Colonial Science,” _Noema_, March 11, 2021, <https://www.noemamag.com/the-long-shadow-of-colonial-science/>.
+[^55]: New York Botanical Garden, "African American Garden: Remembrance and Resilience," accessed May 6, 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/>.
 [^56]:  New York Botanical Garden.
-[^57]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, <https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf.>
-[^58]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," _SFGATE_, December 15, 2022, <https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php.>
+[^57]: Don Lee, "The New York Botanical Garden Press Release for African American Garden: The Caribbean Experience," August 30, 2023, <https://www.nybg.org/content/uploads/2023/08/NYBG-African-American-Garden-Summer-2023-Release_ADA.pdf>.
+[^58]: Brandy Collins, "'Indigo Project': A Blue-Hued Exhibit With Spiritual Practice In Mind," _SFGATE_, December 15, 2022, <https://www.sfgate.com/news/bayarea/article/Indigo-Project-A-Blue-Hued-Exhibit-With-17656761.php>.
